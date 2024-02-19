@@ -1,4 +1,4 @@
-# 2024-02-05 [страница 63. ГЛАВА 1. КОНКУРЕНТНОСТ. ИЗПЪЛНЕНИЕ НА ПРОГРАМАТА. ПРОЦЕС.] (https://web.mon.bg/upload/36301/OS-konkurentno-programirane.pdf)
+# 2024-02-05 [страница 63. ГЛАВА 1. КОНКУРЕНТНОСТ. ИЗПЪЛНЕНИЕ НА ПРОГРАМАТА. ПРОЦЕС.](https://web.mon.bg/upload/36301/OS-konkurentno-programirane.pdf)
 # 2024-02-12 [страница 68] ГЛАВА 2. БЛОКИРАЩИ ОПЕРАЦИИ. ВИДОВЕ БЛОКИРАЩИ ОПЕРАЦИИ.(https://web.mon.bg/upload/36301/OS-konkurentno-programirane.pdf)
 # 2024-02-19 [страница 71] ГЛАВА 3. НИШКИ. СЪЗДАВАНЕ И УПРАВЛЕНИЕ НА НИШКИ.(https://web.mon.bg/upload/36301/OS-konkurentno-programirane.pdf)
 
